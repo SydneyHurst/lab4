@@ -12,5 +12,8 @@
   "devDependencies": {
     "qunit": "^2.23.1",
     "sinon": "^19.0.2"
+  },
+  "dependencies": {
+    "web-dev": "file:"
   }
 }
